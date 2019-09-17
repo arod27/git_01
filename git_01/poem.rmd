@@ -1,0 +1,62 @@
+---
+title: "git_01"
+author: "Ariana Rodriguez"
+date: "September 16, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+"Just the place for a Snark!" the Bellman cried,  
+As he landed his crew with care;  
+Supporting each man on the top of the tide  
+By a finger entwined in his hair.  
+"Just the place for a Snark! I have said it twice."  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+O hushed October morning mild,  
+Thy leaves have ripened to the fall;  
+Tomorrow's wind, if it be wild,  
+Should waste them all.  
+The crows above the forest call  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright-  
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no businesss to be there  
+After the day was done-  
+"It's very rude of him," she said,  
+"To come and spoil the fun."    
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+Warm summer sun,  
+Shine kindly here,  
+Warm southern wind,  
+Blow softly here.  
+
+Green sod above,  
+Lie light, lie light.  
+Good night, dear heart,  
+Good night, good night.   
